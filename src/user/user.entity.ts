@@ -17,6 +17,12 @@ export class User extends BaseEntity {
   @Column({ nullable: false, type: 'enum', enum: GenderEnum })
   gender: number;
 
+  @Column({ type: 'boolean', default: false})
+  isEmailVerified: boolean;
+
+  @Column({ nullable: false, default: 60})
+  weight: number;
+
   @Column({ nullable: false })
   height: number;
 

@@ -25,6 +25,10 @@ export class UserCreateDto {
 
   @IsNotEmpty()
   @IsNumber()
+  weight: number;
+
+  @IsNotEmpty()
+  @IsNumber()
   neck: number;
 
   @IsNotEmpty()

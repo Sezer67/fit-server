@@ -1,4 +1,4 @@
-import { Controller, Get, Req, UseGuards } from '@nestjs/common';
+import { Controller, Get, Post, Req, UseGuards } from '@nestjs/common';
 import { UserService } from './user.service';
 import { AuthGuard } from '@nestjs/passport';
 
@@ -10,5 +10,11 @@ export class UserController {
   @UseGuards(AuthGuard('user'))
   get(@Req() req: any) {
     return req.user;
+  }
+
+  @Post('email-verify')
+  @UseGuards(AuthGuard('user'))
+  emailVerify(@Req() req:any){
+    return this.service.emailVerify(req.user);
   }
 }

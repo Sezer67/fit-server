@@ -49,6 +49,10 @@ export class UserService {
         throw new HttpException('Password is wrong', HttpStatus.FORBIDDEN);
       }
 
+      if(!user.isEmailVerified){
+        throw new HttpException('Email Verification Failed', HttpStatus.BAD_REQUEST);
+      }
+
       const jwtPayload: IJwtPayload = {
         id: user.id,
         email: user.email,
@@ -70,7 +74,7 @@ export class UserService {
     }
   }
 
-  async register(dto: UserCreateDto) {
+  async  register(dto: UserCreateDto) {
     try {
       // email kontrolü
       const user = await this.repo.findOne({
@@ -92,7 +96,37 @@ export class UserService {
 
       delete newUser.password;
 
+      const jwtPayload: IJwtPayload = {
+        id: newUser.id,
+        email: newUser.email,
+      };
+
+      const token = await this.jwtService.signAsync(jwtPayload, {
+        algorithm: 'HS256',
+        secret: process.env.JWT_SECRET,
+      });
+
+      await this.mailService.sendVerificationMail(newUser, token);
+
       return newUser;
+    } catch (error) {
+      throw error;
+    }
+  }
+
+  async emailVerify(user: User){
+    try {
+      if(user.isEmailVerified){
+        throw new HttpException('This email has already been confirmed.',HttpStatus.BAD_REQUEST);
+      }
+      user.isEmailVerified = true;
+
+      await this.repo.save(user);
+
+      return {
+        message: 'success'
+      }
+
     } catch (error) {
       throw error;
     }
