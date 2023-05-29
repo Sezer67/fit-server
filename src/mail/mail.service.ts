@@ -8,7 +8,7 @@ export class MailService {
 
   async sendVerificationMail(user: User, token: string){
     try {
-      const url = process.env.CLIENT_URL + '/emailVerification?token=' + token;
+      const url = process.env.CLIENT_URL + '/EmailVerify?token=' + token;
       await this.mailService.sendMail({
         to: user.email,
         subject: 'Hesap Doğrulama Maili',

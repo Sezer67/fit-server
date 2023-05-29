@@ -1,0 +1,802 @@
+[
+    {
+        "id": 1,
+        "title": "Hacim Kazanma",
+        "GunSayisi": 7,
+        "description": "Tekrar sayısı 4 hafta",
+        "yagorani": null,
+        "vki": null,
+        "firstDay": [
+            {
+                "text": "Chest & Triceps",
+                "img": null
+            },
+            {
+                "text": "Incline Barbell Bench Press 3*(6-8)",
+                "img": null
+            },
+            {
+                "text": "Dumbbell Press 4*(6-8)",
+                "img": null
+            },
+            {
+                "text": "Weighted Dip 4*(6-8)",
+                "img": null
+            },
+            {
+                "text": "Close-Grip Barbell Bench Press 4*(6-8)",
+                "img": null
+            },
+            {
+                "text": "Dumbbell Lying Triceps Extension 3*(6-8)",
+                "img": null
+            },
+            {
+                "text": "One arm triceps extension 3*(6-8)",
+                "img": null
+            }
+        ],
+        "secondDay": [
+            {
+                "text": "Legs, Calves & ABS",
+                "img": null
+            },
+            {
+                "text": "Squat 3*(6-8)",
+                "img": null
+            },
+            {
+                "text": "Leg Press 4*(6-8)",
+                "img": null
+            },
+            {
+                "text": "Barbell Hack Squat 4*(6-8)",
+                "img": null
+            },
+            {
+                "text": "Romanian Deadlift 4*(6-8)",
+                "img": null
+            },
+            {
+                "text": "Standing Calf Raise 3*20",
+                "img": null
+            },
+            {
+                "text": "Hanging Leg Raise 2*20",
+                "img": null
+            },
+            {
+                "text": "Cable Crunch 2*20",
+                "img": null
+            }
+        ],
+        "thirdDay": [
+            {
+                "text": "Shoulders & Traps",
+                "img": null
+            },
+            {
+                "text": "Overhead Dumbbell Press 3*(6-8)",
+                "img": null
+            },
+            {
+                "text": "Arnold Press 4*(6-8)",
+                "img": null
+            },
+            {
+                "text": "Barbell Upright Row 4*(6-8)",
+                "img": null
+            },
+            {
+                "text": "Bent-Over Lateral Raise 4*(6-8)",
+                "img": null
+            },
+            {
+                "text": "Dumbbell Shrug 3*(6-8)",
+                "img": null
+            }
+        ],
+        "fourthDay": [
+            {
+                "text": "Dinlenme",
+                "img": null
+            }
+        ],
+        "fifthDay": [
+            {
+                "text": "Back, Biceps & ABS",
+                "img": null
+            },
+            {
+                "text": "Barbell Bent-Over Row 4*(6-8)",
+                "img": null
+            },
+            {
+                "text": "T-Bar Row 4*(6-8)",
+                "img": null
+            },
+            {
+                "text": "Barbell Biceps Curl 4*(6-8)",
+                "img": null
+            },
+            {
+                "text": "Incline Dumbbell Biceps Curl 4*(6-8)",
+                "img": null
+            },
+            {
+                "text": "Barbell Preacher Curl 3*(6-8)",
+                "img": null
+            },
+            {
+                "text": "Crunch 2*20",
+                "img": null
+            },
+            {
+                "text": "Reverse Crunch 2*20",
+                "img": null
+            }
+        ],
+        "sixthDay": [
+            {
+                "text": "Dinlenme",
+                "img": null
+            }
+        ],
+        "seventhDay": [
+            {
+                "text": "Dinlenme",
+                "img": null
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Yağ Yakma",
+        "GunSayisi": 7,
+        "description": "Tekrar sayısı 3 hafta",
+        "yagorani": null,
+        "vki": null,
+        "firstDay": [
+            {
+                "text": "Full Body",
+                "img": null
+            },
+            {
+                "text": "Bodyweight Squat 4*(8-10)",
+                "img": null
+            },
+            {
+                "text": "Dumbbell Press 4*(6-8)",
+                "img": null
+            },
+            {
+                "text": "Weighted Dip 4*(6-8)",
+                "img": null
+            },
+            {
+                "text": "Close-Grip Barbell Bench Press 4*(6-8)",
+                "img": null
+            },
+            {
+                "text": "Dumbbell Lying Triceps Extension 3*(6-8)",
+                "img": null
+            }
+        ],
+        "secondDay": [
+            {
+                "text": "Cardio & Karın",
+                "img": null
+            },
+            {
+                "text": "Eliptik 20 dk",
+                "img": null
+            },
+            {
+                "text": "Burpes 4 Dakika",
+                "img": null
+            },
+            {
+                "text": "Jumping Jack 4 Dakika",
+                "img": null
+            },
+            {
+                "text": "Mountain Climber 4 Dakika",
+                "img": null
+            },
+            {
+                "text": "Crunch 4*40",
+                "img": null
+            },
+            {
+                "text": "Russian Twist 3*20",
+                "img": null
+            },
+            {
+                "text": "Cable Crunch 2*20",
+                "img": null
+            }
+        ],
+        "thirdDay": [
+            {
+                "text": "Dinlenme",
+                "img": null
+            }
+        ],
+        "fourthDay": [
+            {
+                "text": "Kardiyo & Ağırlık",
+                "img": null
+            },
+            {
+                "text": "Barbell Deadlift 4*(6-8)",
+                "img": null
+            },
+            {
+                "text": "Leg Press 6*(6-8)",
+                "img": null
+            },
+            {
+                "text": "Chest Press 4*(6-8)",
+                "img": null
+            },
+            {
+                "text": "Barbell Biceps Curl 4*(6-8)",
+                "img": null
+            },
+            {
+                "text": "One Arm Triceps 4*(6-8)",
+                "img": null
+            },
+            {
+                "text": "Shoulder Press 4*(6-8)",
+                "img": null
+            },
+            {
+                "text": "Cardio 30 Dakika",
+                "img": null
+            },
+            {
+                "text": "Reverse Crunch 2*20",
+                "img": null
+            }
+        ],
+        "fifthDay": [
+            {
+                "text": "Dinlenme",
+                "img": null
+            }
+        ],
+        "sixthDay": [
+            {
+                "text": "Full Body",
+                "img": null
+            },
+            {
+                "text": "Bodyweight Squat 4*(8-10)",
+                "img": null
+            },
+            {
+                "text": "Dumbbell Press 4*(6-8)",
+                "img": null
+            },
+            {
+                "text": "Weighted Dip 4*(6-8)",
+                "img": null
+            },
+            {
+                "text": "Close-Grip Barbell Bench Press 4*(6-8)",
+                "img": null
+            },
+            {
+                "text": "Dumbbell Lying Triceps Extension 3*(6-8)",
+                "img": null
+            }
+        ],
+        "seventhDay": [
+            {
+                "text": "Cardio & Karın",
+                "img": null
+            },
+            {
+                "text": "Eliptik 20 dk",
+                "img": null
+            },
+            {
+                "text": "Burpes 4 Dakika",
+                "img": null
+            },
+            {
+                "text": "Jumping Jack 4 Dakika",
+                "img": null
+            },
+            {
+                "text": "Mountain Climber 4 Dakika",
+                "img": null
+            },
+            {
+                "text": "Crunch 4*40",
+                "img": null
+            },
+            {
+                "text": "Russian Twist 3*20",
+                "img": null
+            },
+            {
+                "text": "Cable Crunch 2*20",
+                "img": null
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Performans Güç",
+        "GunSayisi": 7,
+        "description": "Tekrar sayısı 8 hafta",
+        "yagorani": null,
+        "vki": null,
+        "firstDay": [
+            {
+                "text": "Güç ve Performans Antrenmanı",
+                "img": null
+            },
+            {
+                "text": "Bench press  4*(8-10)",
+                "img": null
+            },
+            {
+                "text": "Squat 3*(6-8)",
+                "img": null
+            },
+            {
+                "text": "Barbell row 34*(6-8)",
+                "img": null
+            },
+            {
+                "text": "Deadlift 4*(6-8)",
+                "img": null
+            },
+            {
+                "text": "Barbell calf raise  3*(6-8)",
+                "img": null
+            }
+        ],
+        "secondDay": [
+            {
+                "text": "Güç ve Performans Antrenmanı",
+                "img": null
+            },
+            {
+                "text": "Front Barbell squat 4*(6-8)",
+                "img": null
+            },
+            {
+                "text": "Barbell Incline Bench Press 3*(6-8)",
+                "img": null
+            },
+            {
+                "text": "Split squat 3*(6-8)",
+                "img": null
+            },
+            {
+                "text": "Barfiks 4*(6-8)",
+                "img": null
+            },
+            {
+                "text": "Barbell Shoulder Press  3*(6-8)",
+                "img": null
+            },
+            {
+                "text": "Triceps Pushdown  3*(6-8)",
+                "img": null
+            }
+        ],
+        "thirdDay": [
+            {
+                "text": "Güç ve Performans Antrenmanı",
+                "img": null
+            },
+            {
+                "text": "Squat 3*(6-8)",
+                "img": null
+            },
+            {
+                "text": "Bench press  3*(6-8)",
+                "img": null
+            },
+            {
+                "text": "Good morning – Öne eğilme hareketi 3*(6-8)",
+                "img": null
+            },
+            {
+                "text": "T-Bar row 4*(6-8)",
+                "img": null
+            },
+            {
+                "text": "Barbell calf raise 3*(6-8)",
+                "img": null
+            }
+        ],
+        "fourthDay": [
+            {
+                "text": "Dinlenme",
+                "img": null
+            }
+        ],
+        "fifthDay": [
+            {
+                "text": "Bench Barbell Press 3*(6-8)",
+                "img": null
+            },
+            {
+                "text": "Chest Dip 3*(6-8)",
+                "img": null
+            },
+            {
+                "text": "Wide Grip Barbell Upright Row 4*(6-8)",
+                "img": null
+            },
+            {
+                "text": "Dumbbell Shrugs 6*(6-8)",
+                "img": null
+            },
+            {
+                "text": "Deep Squat 3*(6-8)",
+                "img": null
+            },
+            {
+                "text": "Hack Squat 3*(6-8)",
+                "img": null
+            }
+        ],
+        "sixthDay": [
+            {
+                "text": "Dinlenme",
+                "img": null
+            }
+        ],
+        "seventhDay": [
+            {
+                "text": "Dinlenme",
+                "img": null
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Fit Olma",
+        "GunSayisi": 7,
+        "description": "Tekrar sayısı 3 hafta",
+        "yagorani": null,
+        "vki": null,
+        "firstDay": [
+            {
+                "text": "Full Body",
+                "img": null
+            },
+            {
+                "text": "Bodyweight Squat 4*(8-10)",
+                "img": null
+            },
+            {
+                "text": "Dumbbell Press 4*(6-8)",
+                "img": null
+            },
+            {
+                "text": "Weighted Dip 4*(6-8)",
+                "img": null
+            },
+            {
+                "text": "Close-Grip Barbell Bench Press 4*(6-8)",
+                "img": null
+            },
+            {
+                "text": "Dumbbell Lying Triceps Extension 3*(6-8)",
+                "img": null
+            }
+        ],
+        "secondDay": [
+            {
+                "text": "Cardio & Karın",
+                "img": null
+            },
+            {
+                "text": "Eliptik 20 dk",
+                "img": null
+            },
+            {
+                "text": "Burpes 4 Dakika",
+                "img": null
+            },
+            {
+                "text": "Jumping Jack 4 Dakika",
+                "img": null
+            },
+            {
+                "text": "Mountain Climber 4 Dakika",
+                "img": null
+            },
+            {
+                "text": "Crunch 4*40",
+                "img": null
+            },
+            {
+                "text": "Russian Twist 3*20",
+                "img": null
+            },
+            {
+                "text": "Cable Crunch 2*20",
+                "img": null
+            }
+        ],
+        "thirdDay": [
+            {
+                "text": "Dinlenme",
+                "img": null
+            }
+        ],
+        "fourthDay": [
+            {
+                "text": "Dinlenme",
+                "img": null
+            }
+        ],
+        "fifthDay": [
+            {
+                "text": "Full Body",
+                "img": null
+            },
+            {
+                "text": "Bodyweight Squat 4*(8-10)",
+                "img": null
+            },
+            {
+                "text": "Dumbbell Press 4*(6-8)",
+                "img": null
+            },
+            {
+                "text": "Weighted Dip 4*(6-8)",
+                "img": null
+            },
+            {
+                "text": "Close-Grip Barbell Bench Press 4*(6-8)",
+                "img": null
+            },
+            {
+                "text": "Dumbbell Lying Triceps Extension 3*(6-8)",
+                "img": null
+            }
+        ],
+        "sixthDay": [
+            {
+                "text": "Cardio & Karın",
+                "img": null
+            },
+            {
+                "text": "Eliptik 20 dk",
+                "img": null
+            },
+            {
+                "text": "Burpes 4 Dakika",
+                "img": null
+            },
+            {
+                "text": "Jumping Jack 4 Dakika",
+                "img": null
+            },
+            {
+                "text": "Mountain Climber 4 Dakika",
+                "img": null
+            },
+            {
+                "text": "Crunch 4*40",
+                "img": null
+            },
+            {
+                "text": "Russian Twist 3*20",
+                "img": null
+            },
+            {
+                "text": "Cable Crunch 2*20",
+                "img": null
+            }
+        ],
+        "seventhDay": [
+            {
+                "text": "Dinlenme",
+                "img": null
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Sağlıklı Yaşam",
+        "GunSayisi": 7,
+        "description": "Tekrar sayısı 3 hafta",
+        "yagorani": null,
+        "vki": null,
+        "firstDay": [
+            {
+                "text": "Cardio & Esneme",
+                "img": null
+            },
+            {
+                "text": "15 Dakika esneme",
+                "img": null
+            },
+            {
+                "text": "45 Dakika yürüyüş",
+                "img": null
+            },
+            {
+                "text": "15 Dakika esneme",
+                "img": null
+            }
+        ],
+        "secondDay": [
+            {
+                "text": "Cardio & Karın",
+                "img": null
+            },
+            {
+                "text": "Eliptik 20 dk",
+                "img": null
+            },
+            {
+                "text": "Burpes 4 Dakika",
+                "img": null
+            },
+            {
+                "text": "Jumping Jack 4 Dakika",
+                "img": null
+            },
+            {
+                "text": "Mountain Climber 4 Dakika",
+                "img": null
+            },
+            {
+                "text": "Crunch 4*40",
+                "img": null
+            },
+            {
+                "text": "Russian Twist 3*20",
+                "img": null
+            },
+            {
+                "text": "Cable Crunch 2*20",
+                "img": null
+            }
+        ],
+        "thirdDay": [
+            {
+                "text": "Dinlenme",
+                "img": null
+            }
+        ],
+        "fourthDay": [
+            {
+                "text": "Dinlenme",
+                "img": null
+            }
+        ],
+        "fifthDay": [
+            {
+                "text": "Cardio & Esneme & Karın",
+                "img": null
+            },
+            {
+                "text": "15 Dakika esneme",
+                "img": null
+            },
+            {
+                "text": "45 Dakika yürüyüş",
+                "img": null
+            },
+            {
+                "text": "Mountain Climber 4 Dakika",
+                "img": null
+            },
+            {
+                "text": "Cable Crunch 2*20",
+                "img": null
+            },
+            {
+                "text": "Russian Twist 3*20",
+                "img": null
+            }
+        ],
+        "sixthDay": [
+            {
+                "text": "Dinlenme",
+                "img": null
+            }
+        ],
+        "seventhDay": [
+            {
+                "text": "Dinlenme",
+                "img": null
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Eklem Sağlığı",
+        "GunSayisi": 7,
+        "description": "Tekrar sayısı 3 hafta",
+        "yagorani": null,
+        "vki": null,
+        "firstDay": [
+            {
+                "text": "Cardio & Esneme",
+                "img": null
+            },
+            {
+                "text": "10 Dakika esneme",
+                "img": null
+            },
+            {
+                "text": "25 Dakika yürüyüş",
+                "img": null
+            }
+        ],
+        "secondDay": [
+            {
+                "text": "Dinlenme",
+                "img": null
+            }
+        ],
+        "thirdDay": [
+            {
+                "text": "Cardio & Esneme & Vücut Ağırlığı",
+                "img": null
+            },
+            {
+                "text": "10 Dakika esneme",
+                "img": null
+            },
+            {
+                "text": "20 Dakika yürüyüş",
+                "img": null
+            },
+            {
+                "text": "Jumping Jack 2 Dakika",
+                "img": null
+            },
+            {
+                "text": "Mountain Climber 2 Dakika",
+                "img": null
+            }
+        ],
+        "fourthDay": [
+            {
+                "text": "Dinlenme",
+                "img": null
+            }
+        ],
+        "fifthDay": [
+            {
+                "text": "Dinlenme",
+                "img": null
+            }
+        ],
+        "sixthDay": [
+            {
+                "text": "Cardio & Esneme",
+                "img": null
+            },
+            {
+                "text": "10 Dakika esneme",
+                "img": null
+            },
+            {
+                "text": "20 Dakika yürüyüş",
+                "img": null
+            }
+        ],
+        "seventhDay": [
+            {
+                "text": "Dinlenme",
+                "img": null
+            }
+        ]
+    }
+]

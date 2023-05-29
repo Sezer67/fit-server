@@ -1,0 +1,410 @@
+[
+    {
+        "id": 1,
+        "title": "Diyet Listesi 1",
+        "ogunSayisi": 9,
+        "description": "Kas kütlesi  kazanamak için vücut kütlenizin 1.5-2 katı protein ve vücut kütlenizin 2 katı karbonhidrat alınız.",
+        "yagorani": null,
+        "vki": null,
+        "firstMeal": [
+            {
+                "text": "4 Yumurta beyazı (2 sarısı) ,1 kase yulaf ezmesi ,6-7 zeytin,80-100gr lor peyniri tercihe göre 1 bardak yeşil çay, 1-2 dilim tam buğday ekmeği,yarım litre su",
+                "img": null
+            }
+        ],
+        "firstSnack": [
+            {
+                "text": "1 Avuç Ceviz veya badem",
+                "img": null
+            }
+        ],
+        "secondMeal": [
+            {
+                "text": "150-200 gram tavuk göğüs veya et veya balık , 1 tabak makarna veya pilav , 1 kase yoğurt, zeytinyağlı salata,,yarım litre su",
+                "img": null
+            }
+        ],
+        "secondSnack": [
+            {
+                "text": "2. öğün ile aynı veya benzer olarak 150-200 gram tavuk göğüs veya et veya balık , 1 tabak makarna veya pilav , 1 kase yoğurt,,yarım litre su",
+                "img": null
+            }
+        ],
+        "thirdMeal": [
+            {
+                "text": "2. öğün Yemeği ile Aynı veya benzer,tercihen sebze yemekleri de yenebilir,yarım litre su",
+                "img": null
+            }
+        ],
+        "thirdSnack": [
+            {
+                "text": "1 adet şeker miktarı az meyve ,yarım litre su",
+                "img": null
+            }
+        ],
+        "fourthMeal": [
+            {
+                "text": "Zeytinyağlı bol yeşillikli salata,,yarım litre su",
+                "img": null
+            }
+        ],
+        "fourthSnack": [
+            {
+                "text": "",
+                "img": null
+            }
+        ],
+        "fifthMeal": [
+            {
+                "text": "Et,balık,tavuk,baklagil yemeği 1 tabak makarna,pilav,yarım litre su",
+                "img": null
+            }
+        ],
+        "fifthSnack": [
+            {
+                "text": "1 kase yoğurt",
+                "img": null
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Diyet Listesi 2",
+        "ogunSayisi": 4,
+        "description": "Kilo verme veya yağ yakmak için aralıklı oruç tercih ediniz.",
+        "yagorani": null,
+        "vki": null,
+        "firstMeal": [
+            {
+                "text": "Tercihen sebzeli veya peynirli omlet,yeşillik, mevsim sebzeleri,10-12 adet badem,1 litre su",
+                "img": null
+            }
+        ],
+        "firstSnack": [
+            {
+                "text": "1 adet meyve",
+                "img": null
+            }
+        ],
+        "secondMeal": [
+            {
+                "text": "",
+                "img": null
+            }
+        ],
+        "secondSnack": [
+            {
+                "text": "1 adet kefir veya 1 avuç tuzsuz çiğ kuruyemiş,1 litre su",
+                "img": null
+            }
+        ],
+        "thirdMeal": [
+            {
+                "text": "",
+                "img": null
+            }
+        ],
+        "thirdSnack": [
+            {
+                "text": "",
+                "img": null
+            }
+        ],
+        "fourthMeal": [
+            {
+                "text": "1 veya 2 porsiyon zeytinyağlı, kıymalı mevsim sebzesi yemeği",
+                "img": null
+            }
+        ],
+        "fourthSnack": [
+            {
+                "text": "",
+                "img": null
+            }
+        ],
+        "fifthMeal": [
+            {
+                "text": "",
+                "img": null
+            }
+        ],
+        "fifthSnack": [
+            {
+                "text": "",
+                "img": null
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Diyet Listesi 3",
+        "ogunSayisi": 6,
+        "description": "Spora yönelik ve fit olmaya yönelik diyet listesi",
+        "yagorani": null,
+        "vki": null,
+        "firstMeal": [
+            {
+                "text": "1-2 yumurta,1 kase yulaf ezmesi ,6-7 zeytin,50-60gr light peynir tercihe göre 1 bardak yeşil çay,bolca yeşillik,1 litre su",
+                "img": null
+            }
+        ],
+        "firstSnack": [
+            {
+                "text": "Yarım litre su 1 avuç çiğ kuruyemiş",
+                "img": null
+            }
+        ],
+        "secondMeal": [
+            {
+                "text": "Zeytinyağlı salata",
+                "img": null
+            }
+        ],
+        "secondSnack": [
+            {
+                "text": "1 adet kefir veya 1 avuç tuzsuz çiğ kuruyemiş,1 litre su",
+                "img": null
+            }
+        ],
+        "thirdMeal": [
+            {
+                "text": "Et,balık,tavuk yarım porsiyon kepekli makarna kepekli bulgur,1 litre su",
+                "img": null
+            }
+        ],
+        "thirdSnack": [
+            {
+                "text": "Şeker oranı düşük meyve,1 litre su",
+                "img": null
+            }
+        ],
+        "fourthMeal": [
+            {
+                "text": "",
+                "img": null
+            }
+        ],
+        "fourthSnack": [
+            {
+                "text": "",
+                "img": null
+            }
+        ],
+        "fifthMeal": [
+            {
+                "text": "",
+                "img": null
+            }
+        ],
+        "fifthSnack": [
+            {
+                "text": "",
+                "img": null
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Diyet Listesi 4",
+        "ogunSayisi": 6,
+        "description": "Sağlıklı yaşama yöenelik fit kullancılar için diyet listesi.",
+        "yagorani": null,
+        "vki": null,
+        "firstMeal": [
+            {
+                "text": "1yumurta,6-7 zeytin,50-60gr light peynir,1-2 dilim tam buğday ekmeği tercihe göre 1 bardak yeşil çay,bolca yeşillik,yarım litre su",
+                "img": null
+            }
+        ],
+        "firstSnack": [
+            {
+                "text": "1 kase yoğurt veya 1 adet kefir",
+                "img": null
+            }
+        ],
+        "secondMeal": [
+            {
+                "text": "Zeytinyağlı salata veya sebze yemeği,yarım litre su",
+                "img": null
+            }
+        ],
+        "secondSnack": [
+            {
+                "text": "1 avuç tuzsuz çiğ kuruyemiş,1 litre su",
+                "img": null
+            }
+        ],
+        "thirdMeal": [
+            {
+                "text": "Et,balık,tavuk,1-2 dilim tam buğday ekmeği,1 litre su",
+                "img": null
+            }
+        ],
+        "thirdSnack": [
+            {
+                "text": "Şeker oranı düşük meyve,1 litre su",
+                "img": null
+            }
+        ],
+        "fourthMeal": [
+            {
+                "text": "",
+                "img": null
+            }
+        ],
+        "fourthSnack": [
+            {
+                "text": "",
+                "img": null
+            }
+        ],
+        "fifthMeal": [
+            {
+                "text": "",
+                "img": null
+            }
+        ],
+        "fifthSnack": [
+            {
+                "text": "",
+                "img": null
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Diyet Listesi 5",
+        "ogunSayisi": 5,
+        "description": "Kilo verme ve fit olmaya yönelik araklıklı oruç programı.",
+        "yagorani": null,
+        "vki": null,
+        "firstMeal": [
+            {
+                "text": "2 adet haşlanmış yumurta,6-7 zeytin,yarım avokado,1-2 dilim peynir ,1-2 dilim tam buğday ekmeği tercihe göre ,bolca yeşillik,yarım litre su",
+                "img": null
+            }
+        ],
+        "firstSnack": [
+            {
+                "text": "1 bardak yeşil çay,kuru incir,1 avuç çiğ kuruyemiş,1 litre su",
+                "img": null
+            }
+        ],
+        "secondMeal": [
+            {
+                "text": "Zeytinyağlı sebze yemeği ,1 tabak pirinç pilavı,1 kase yoğurt ,1 litre su",
+                "img": null
+            }
+        ],
+        "secondSnack": [
+            {
+                "text": "",
+                "img": null
+            }
+        ],
+        "thirdMeal": [
+            {
+                "text": "",
+                "img": null
+            }
+        ],
+        "thirdSnack": [
+            {
+                "text": "",
+                "img": null
+            }
+        ],
+        "fourthMeal": [
+            {
+                "text": "",
+                "img": null
+            }
+        ],
+        "fourthSnack": [
+            {
+                "text": "",
+                "img": null
+            }
+        ],
+        "fifthMeal": [
+            {
+                "text": "",
+                "img": null
+            }
+        ],
+        "fifthSnack": [
+            {
+                "text": "",
+                "img": null
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Diyet Listesi 6",
+        "ogunSayisi": 5,
+        "description": "Dukan Diyeti.",
+        "yagorani": null,
+        "vki": null,
+        "firstMeal": [
+            {
+                "text": "200 gr yağsız yoğurt  1,5 yemek kaşığı yulaf ezmesi bolca su",
+                "img": null
+            }
+        ],
+        "firstSnack": [
+            {
+                "text": "",
+                "img": null
+            }
+        ],
+        "secondMeal": [
+            {
+                "text": "200 gr Kuşbaşı doğranmış tavuk protein içeriği değişebilir  sade quark(1,5 yemek kaşığı yulaf ezmesi eklenmiş)",
+                "img": null
+            }
+        ],
+        "secondSnack": [
+            {
+                "text": "",
+                "img": null
+            }
+        ],
+        "thirdMeal": [
+            {
+                "text": " Izgara Balık (3 damla sıvı yağ ile  hazırlanmış) protein içeriği değişebilir doğranmış otlar",
+                "img": null
+            }
+        ],
+        "thirdSnack": [
+            {
+                "text": "",
+                "img": null
+            }
+        ],
+        "fourthMeal": [
+            {
+                "text": "",
+                "img": null
+            }
+        ],
+        "fourthSnack": [
+            {
+                "text": "",
+                "img": null
+            }
+        ],
+        "fifthMeal": [
+            {
+                "text": "",
+                "img": null
+            }
+        ],
+        "fifthSnack": [
+            {
+                "text": "",
+                "img": null
+            }
+        ]
+    }
+]

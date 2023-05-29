@@ -1,0 +1,182 @@
+{
+    "vki": [
+        {
+            "id": 1,
+            "baslangicDegeri": 0,
+            "bitisDegeri": 18.5,
+            "description": "Zayıf",
+            "img": null,
+            "diyetList": [
+                "Diyet Listesi 1",
+                "Diyet Listesi 3"
+            ], 
+            "sporList": [
+                "Hacim Kazanma",
+                "Performans Güç",
+                "Fit  Olma"
+            ]
+        },
+        {
+            "id": 2,
+            "baslangicDegeri": 18.51,
+            "bitisDegeri": 24.9,
+            "description": "Normal ağırlıkta",
+            "img": null,
+            "diyetList": [
+                "Diyet Listesi 3",
+                "Diyet Listesi 4"
+            ], 
+            "sporList": [
+                "Performans Güç",
+                "Fit  Olma",
+                "Sağlıklı Yaşam"
+            ]
+        },
+        {
+            "id": 3,
+            "baslangicDegeri": 15,
+            "bitisDegeri": 29.9,
+            "description": "Kilolu",
+            "img": null,
+            "diyetList": [
+                "Diyet Listesi 2",
+                "Diyet Listesi 5"
+            ], 
+            "sporList": [
+                "Yağ Yakma",
+                "Performans Güç",
+                "Fit Olma",
+                "Sağlıklı Yaşam"
+            ]
+        },
+        {
+            "id": 4,
+            "baslangicDegeri": 30,
+            "bitisDegeri": 34.9,
+            "description": "1.Derece obezite",
+            "img": null,
+            "diyetList": [
+                "Diyet Listesi 5",
+                "Diyet Listesi 6"
+            ], 
+            "sporList": [
+                "Yağ Yakma",
+                "Performans Güç"
+            ]
+        },
+        {
+            "id": 5,
+            "baslangicDegeri": 35,
+            "bitisDegeri": 39.9,
+            "description": "2.Derece obezite",
+            "img": null,
+            "diyetList": [
+                "Diyet Listesi 6"
+            ], 
+            "sporList": [
+                "Yağ Yakma",
+                "Eklem Sağlığı"
+            ]
+        }
+    ],
+    "yagorani ": [
+        {
+            "id": 1,
+            "baslangicDegeri": 0,
+            "bitisDegeri": 6,
+            "description": "Olması gereken minumum yağ miktarı",
+            "img": null,
+            "diyetList": [
+                "Diyet Listesi 1",
+                "Diyet Listesi 3",
+                "Diyet Listesi 4"
+            ], 
+            "sporList": [
+                "Hacim Kazanma",
+                "Performans Güç",
+                "Sağlıklı Yaşam"
+            ]
+        },
+        {
+            "id": 2,
+            "baslangicDegeri": 6.1,
+            "bitisDegeri": 13,
+            "description": "Atletik",
+            "img": null,
+            "diyetList": [
+                "Diyet Listesi 1",
+                "Diyet Listesi 3",
+                "Diyet Listesi 4"
+            ], 
+            "sporList": [
+                "Performans Güç",
+                "Fit  Olma",
+                "Sağlıklı Yaşam",
+                "Hacim Kazanma"
+            ]
+        },
+        {
+            "id": 3,
+            "baslangicDegeri": 14,
+            "bitisDegeri": 17,
+            "description": "Fit",
+            "img": null,
+            "diyetList": [
+                "Diyet Listesi 2",
+                "Diyet Listesi 5",
+                "Diyet Listesi 5"
+            ], 
+            "sporList": [
+                "Yağ Yakma",
+                "Performans Güç",
+                "Fit Olma",
+                "Sağlıklı Yaşam"
+            ]
+        },
+        {
+            "id": 4,
+            "baslangicDegeri": 18,
+            "bitisDegeri": 24,
+            "description": "Ortalama",
+            "img": null,
+            "diyetList": [
+                "Diyet Listesi 4",
+                "Diyet Listesi 5"
+            ], 
+            "sporList": [
+                "Yağ Yakma",
+                "Performans Güç",
+                "Fit Olma"
+            ]
+        },
+        {
+            "id": 5,
+            "baslangicDegeri": 25,
+            "bitisDegeri": 37,
+            "description": "1.Derece obezite",
+            "img": null,
+            "diyetList": [
+                "Diyet Listesi 5",
+                "Diyet Listesi 6"
+            ], 
+            "sporList": [
+                "Yağ Yakma",
+                "Eklem Sağlığı"
+            ]
+        },
+        {
+            "id": 6,
+            "baslangicDegeri": 38,
+            "bitisDegeri": 100,
+            "description": "2.Derece obezite",
+            "img": null,
+            "diyetList": [
+                "Diyet Listesi 6"
+            ], 
+            "sporList": [
+                "Yağ Yakma",
+                "Eklem Sağlığı"
+            ]
+        }
+    ]
+}
