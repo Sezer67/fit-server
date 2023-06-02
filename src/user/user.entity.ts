@@ -1,5 +1,6 @@
 import { GenderEnum } from 'src/enums/user.enum';
-import { BaseEntity, Column, Entity, PrimaryGeneratedColumn } from 'typeorm';
+import { Test } from 'src/test/test.entity';
+import { BaseEntity, Column, Entity, OneToMany, PrimaryGeneratedColumn } from 'typeorm';
 @Entity('user')
 export class User extends BaseEntity {
   @PrimaryGeneratedColumn('uuid')
@@ -34,4 +35,7 @@ export class User extends BaseEntity {
 
   @Column({ nullable: false })
   hip: number; // kalça
+
+  @OneToMany(() => Test, (entity) => entity.user)
+  tests: Test[];
 }

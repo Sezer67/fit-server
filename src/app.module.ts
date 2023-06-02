@@ -5,6 +5,9 @@ import { UserModule } from './user/user.module';
 import { AuthModule } from './auth/auth.module';
 import { MailModule } from './mail/mail.module';
 import { AppController } from './app.controller';
+import { TestModule } from './test/test.module';
+import { FatRateModule } from './fat-rate-data/fat-rate-data.module';
+import { VkiModule } from './vki-data/vki.data.module';
 
 @Module({
   imports: [
@@ -23,6 +26,9 @@ import { AppController } from './app.controller';
     UserModule,
     AuthModule,
     MailModule,
+    TestModule,
+    FatRateModule,
+    VkiModule,
   ],
   controllers: [AppController],
   providers: [],

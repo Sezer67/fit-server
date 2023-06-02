@@ -34,7 +34,7 @@
         },
         {
             "id": 3,
-            "baslangicDegeri": 15,
+            "baslangicDegeri": 25,
             "bitisDegeri": 29.9,
             "description": "Kilolu",
             "img": null,
@@ -79,7 +79,7 @@
             ]
         }
     ],
-    "yagorani ": [
+    "fatRate": [
         {
             "id": 1,
             "baslangicDegeri": 0,
