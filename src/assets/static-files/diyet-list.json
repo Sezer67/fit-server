@@ -48,12 +48,7 @@
                 "img": null
             }
         ],
-        "fourthSnack": [
-            {
-                "text": "",
-                "img": null
-            }
-        ],
+        "fourthSnack": [],
         "fifthMeal": [
             {
                 "text": "Et,balık,tavuk,baklagil yemeği 1 tabak makarna,pilav,yarım litre su",
@@ -86,54 +81,24 @@
                 "img": null
             }
         ],
-        "secondMeal": [
-            {
-                "text": "",
-                "img": null
-            }
-        ],
+        "secondMeal": [],
         "secondSnack": [
             {
                 "text": "1 adet kefir veya 1 avuç tuzsuz çiğ kuruyemiş,1 litre su",
                 "img": null
             }
         ],
-        "thirdMeal": [
-            {
-                "text": "",
-                "img": null
-            }
-        ],
-        "thirdSnack": [
-            {
-                "text": "",
-                "img": null
-            }
-        ],
+        "thirdMeal": [],
+        "thirdSnack": [],
         "fourthMeal": [
             {
                 "text": "1 veya 2 porsiyon zeytinyağlı, kıymalı mevsim sebzesi yemeği",
                 "img": null
             }
         ],
-        "fourthSnack": [
-            {
-                "text": "",
-                "img": null
-            }
-        ],
-        "fifthMeal": [
-            {
-                "text": "",
-                "img": null
-            }
-        ],
-        "fifthSnack": [
-            {
-                "text": "",
-                "img": null
-            }
-        ]
+        "fourthSnack": [],
+        "fifthMeal": [],
+        "fifthSnack": []
     },
     {
         "id": 3,
@@ -178,30 +143,10 @@
                 "img": null
             }
         ],
-        "fourthMeal": [
-            {
-                "text": "",
-                "img": null
-            }
-        ],
-        "fourthSnack": [
-            {
-                "text": "",
-                "img": null
-            }
-        ],
-        "fifthMeal": [
-            {
-                "text": "",
-                "img": null
-            }
-        ],
-        "fifthSnack": [
-            {
-                "text": "",
-                "img": null
-            }
-        ]
+        "fourthMeal": [],
+        "fourthSnack": [],
+        "fifthMeal": [],
+        "fifthSnack": []
     },
     {
         "id": 4,
@@ -246,30 +191,10 @@
                 "img": null
             }
         ],
-        "fourthMeal": [
-            {
-                "text": "",
-                "img": null
-            }
-        ],
-        "fourthSnack": [
-            {
-                "text": "",
-                "img": null
-            }
-        ],
-        "fifthMeal": [
-            {
-                "text": "",
-                "img": null
-            }
-        ],
-        "fifthSnack": [
-            {
-                "text": "",
-                "img": null
-            }
-        ]
+        "fourthMeal": [],
+        "fourthSnack": [],
+        "fifthMeal": [],
+        "fifthSnack": []
     },
     {
         "id": 5,
@@ -296,48 +221,13 @@
                 "img": null
             }
         ],
-        "secondSnack": [
-            {
-                "text": "",
-                "img": null
-            }
-        ],
-        "thirdMeal": [
-            {
-                "text": "",
-                "img": null
-            }
-        ],
-        "thirdSnack": [
-            {
-                "text": "",
-                "img": null
-            }
-        ],
-        "fourthMeal": [
-            {
-                "text": "",
-                "img": null
-            }
-        ],
-        "fourthSnack": [
-            {
-                "text": "",
-                "img": null
-            }
-        ],
-        "fifthMeal": [
-            {
-                "text": "",
-                "img": null
-            }
-        ],
-        "fifthSnack": [
-            {
-                "text": "",
-                "img": null
-            }
-        ]
+        "secondSnack": [],
+        "thirdMeal": [],
+        "thirdSnack": [],
+        "fourthMeal": [],
+        "fourthSnack": [],
+        "fifthMeal": [],
+        "fifthSnack": []
     },
     {
         "id": 6,
@@ -352,59 +242,24 @@
                 "img": null
             }
         ],
-        "firstSnack": [
-            {
-                "text": "",
-                "img": null
-            }
-        ],
+        "firstSnack": [],
         "secondMeal": [
             {
                 "text": "200 gr Kuşbaşı doğranmış tavuk protein içeriği değişebilir  sade quark(1,5 yemek kaşığı yulaf ezmesi eklenmiş)",
                 "img": null
             }
         ],
-        "secondSnack": [
-            {
-                "text": "",
-                "img": null
-            }
-        ],
+        "secondSnack": [],
         "thirdMeal": [
             {
                 "text": " Izgara Balık (3 damla sıvı yağ ile  hazırlanmış) protein içeriği değişebilir doğranmış otlar",
                 "img": null
             }
         ],
-        "thirdSnack": [
-            {
-                "text": "",
-                "img": null
-            }
-        ],
-        "fourthMeal": [
-            {
-                "text": "",
-                "img": null
-            }
-        ],
-        "fourthSnack": [
-            {
-                "text": "",
-                "img": null
-            }
-        ],
-        "fifthMeal": [
-            {
-                "text": "",
-                "img": null
-            }
-        ],
-        "fifthSnack": [
-            {
-                "text": "",
-                "img": null
-            }
-        ]
+        "thirdSnack": [],
+        "fourthMeal": [],
+        "fourthSnack": [],
+        "fifthMeal": [],
+        "fifthSnack": []
     }
 ]

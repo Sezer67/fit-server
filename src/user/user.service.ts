@@ -9,6 +9,8 @@ import { ILoginResponse } from 'src/interfaces/user.interface';
 import { UserCreateDto } from './dto/user-create.dto';
 import * as bcrypt from 'bcryptjs';
 import { MailService } from 'src/mail/mail.service';
+import { ContactAdminDto } from './dto/contact-admin.dto';
+import { UserUpdateDto } from './dto/user-update.dto';
 
 @Injectable()
 export class UserService {
@@ -49,8 +51,11 @@ export class UserService {
         throw new HttpException('Password is wrong', HttpStatus.FORBIDDEN);
       }
 
-      if(!user.isEmailVerified){
-        throw new HttpException('Email Verification Failed', HttpStatus.BAD_REQUEST);
+      if (!user.isEmailVerified) {
+        throw new HttpException(
+          'Email Verification Failed',
+          HttpStatus.BAD_REQUEST,
+        );
       }
 
       const jwtPayload: IJwtPayload = {
@@ -74,7 +79,7 @@ export class UserService {
     }
   }
 
-  async  register(dto: UserCreateDto) {
+  async register(dto: UserCreateDto) {
     try {
       // email kontrolü
       const user = await this.repo.findOne({
@@ -114,19 +119,40 @@ export class UserService {
     }
   }
 
-  async emailVerify(user: User){
+  async emailVerify(user: User) {
     try {
-      if(user.isEmailVerified){
-        throw new HttpException('This email has already been confirmed.',HttpStatus.BAD_REQUEST);
+      if (user.isEmailVerified) {
+        throw new HttpException(
+          'This email has already been confirmed.',
+          HttpStatus.BAD_REQUEST,
+        );
       }
       user.isEmailVerified = true;
 
       await this.repo.save(user);
 
       return {
-        message: 'success'
-      }
+        message: 'success',
+      };
+    } catch (error) {
+      throw error;
+    }
+  }
 
+  async contactAdmin(dto: ContactAdminDto) {
+    try {
+      return await this.mailService.contactAdmin(dto);
+    } catch (error) {
+      throw error;
+    }
+  }
+
+  async userUpdate(dto: UserUpdateDto, user: User) {
+    try {
+      await this.repo.update({ id: user.id }, { ...dto });
+      const currentUser = await this.repo.findOneBy({ id: user.id });
+      delete currentUser.password;
+      return currentUser;
     } catch (error) {
       throw error;
     }
